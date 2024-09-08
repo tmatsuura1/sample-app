@@ -1,7 +1,6 @@
 package org.acme.service;
 
 import jakarta.transaction.Transactional;
-import org.acme.entity.User;
 import org.acme.entity.UserEntity;
 import org.acme.repository.UserRepository;
 import java.util.List;
