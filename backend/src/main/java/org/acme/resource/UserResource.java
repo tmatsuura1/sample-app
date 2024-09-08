@@ -17,7 +17,6 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.QueryParam;
 import jakarta.ws.rs.core.MediaType;
 import org.jboss.resteasy.reactive.RestQuery;
-import org.acme.entity.User;
 import org.acme.entity.UserEntity;
 import org.acme.repository.UserRepository;
 import org.acme.service.UserService;
